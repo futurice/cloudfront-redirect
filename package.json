@@ -1,7 +1,11 @@
 {
-  "name": "s3-authenticated-redirect",
+  "name": "cloudfront-redirect",
   "version": "1.0.0",
-  "description": "Inspired by https://github.com/aesopwolf/s3-basic-auth",
+  "description": "Redirect requests to cloudfront with presigned URLs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/futurice/cloudfront-redirect.git"
+  },
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
