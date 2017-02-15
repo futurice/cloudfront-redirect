@@ -78,7 +78,7 @@ docker container run -P -it \
     cloudfront-redirect
 ```
 
-The image is also available at 
+The image is also available at https://hub.docker.com/r/futurice/cloudfront-redirect/
 
 [aws-hosting-intro]: https://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html "Hosting a Static Website on Amazon Web Services"
 [cloudfront-privatecontent]: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/PrivateContent.html "Serving Private Content through CloudFront"
